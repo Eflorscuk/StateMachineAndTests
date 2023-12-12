@@ -3,7 +3,6 @@ const request = require('supertest')
 
 describe('API tests', () => {
     afterAll((done) => {
-        // Certifique-se de que server.close está definido antes de chamá-lo
         if (server && server.close) {
             server.close(() => {
                 console.log('Test server closed.')
