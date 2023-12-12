@@ -23,3 +23,6 @@ This project was developed to provide a solid foundation for learning and practi
 1. GET http://localhost:3000
 2. POST http://localhost:3000/tasks and put the date in -> body -> raw -> json (Postman).
 3.  PUT http://localhost:3000/tasks/1 (1 is a id example) and put in -> body -> raw -> json a update date.
+
+## Test
+1. To run ```npm test```
