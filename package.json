@@ -1,0 +1,25 @@
+{
+  "name": "statemachineexample",
+  "version": "1.0.0",
+  "description": "\"Implementation of a state machine in JavaScript.\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "JS",
+    "REST",
+    "JavaScript",
+    "State",
+    "Machine"
+  ],
+  "author": "Evandro Florscuk",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.2"
+  }
+}
