@@ -26,3 +26,10 @@ This project was developed to provide a solid foundation for learning and practi
 
 ## Test
 1. To run ```npm test```
+
+## To Do
+- Implement a Dockerfile to node environment.
+- Implement a MySQL DB.  
+- Create a test to update function.
+- Create the controller layer.
+- Create (maybe) the service layer.
